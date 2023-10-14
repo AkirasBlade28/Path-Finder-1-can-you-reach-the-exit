@@ -12,4 +12,4 @@ Return true if you can reach position [N-1, N-1] or false otherwise.
 
 *Note:
 This code has implementation of Depth First Search algorithm
-I added some graph printing so the algorithm can be visuals.
+I added some graph printing so the algorithm can be visualized.
